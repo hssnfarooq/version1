@@ -1,0 +1,29 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+ .required{
+     color: red;
+     font-size: 18px;
+ }
+
+ form legend{
+     font-size: 22px;
+     margin-bottom: 10px;
+ }
+
+ form input{
+     width: 50%;
+ }
+
+ form .latErr{
+     color: red;
+     display: none;
+ }
+
+ form .longErr{
+    color: red;
+    display: none;
+}
+
+ 
